@@ -214,6 +214,11 @@
                          "value":"Info2"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -235,6 +240,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Room1"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -260,6 +270,11 @@
                          "value":"Room2"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -281,6 +296,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Room3"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -306,6 +326,11 @@
                          "value":"Room4"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -327,6 +352,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Room5"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -352,6 +382,11 @@
                          "value":"Room6"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -373,6 +408,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"bar"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -398,6 +438,11 @@
                          "value":"outside"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -419,6 +464,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"outside"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -444,6 +494,11 @@
                          "value":"lounge_1"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -465,6 +520,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"lounge_2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -490,6 +550,11 @@
                          "value":"Room8"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -513,6 +578,11 @@
                          "value":"Room7"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -534,6 +604,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"Room9"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -1002,7 +1077,7 @@
          "value":true
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.8.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1222,6 +1297,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":"1.8",
  "width":55
 }
