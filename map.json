@@ -775,7 +775,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"http:\/\/forum.goatech.org\/t\/hack-organic-join-us-and-share-your-project-ideas\/1028\/7"
+                 "value":"https:\/\/www.organic-center.org\/hackorganic-using-work-adventure"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -798,7 +798,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/www.organic-center.org\/hackorganic-using-work-adventure"
+                 "value":"http:\/\/forum.goatech.org\/t\/hack-organic-join-us-and-share-your-project-ideas\/1028\/7"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
